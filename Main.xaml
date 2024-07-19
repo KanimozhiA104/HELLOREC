@@ -78,6 +78,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="kk" sap:VirtualizedContainerService.HintSize="353.6,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;ooo&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="bbbbbbbbbb" sap:VirtualizedContainerService.HintSize="353.6,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;hy&quot;]" />
   </Sequence>
 </Activity>
